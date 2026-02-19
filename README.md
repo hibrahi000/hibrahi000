@@ -32,11 +32,6 @@ Backend Engineer building scalable systems at American Express.
 - 💼 [LinkedIn](https://linkedin.com/in/hashmat-ibrahimi)
 - 📧 Hashmat.ibrahimi.21@gmail.com
 - 🌐 Open to Backend Engineering roles | Remote | $160K+
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hibrahi000&layout=compact&theme=dark)
-![Hashmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibrahi000&show_icons=true&theme=dark)
-
 ---
 
 💡 **Currently seeking:** Backend Engineering roles at high-growth companies where I can build systems that scale and solve hard problems.
