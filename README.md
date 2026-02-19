@@ -11,7 +11,7 @@ Backend Engineer building scalable systems at American Express.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 💼 Experience
-- **American Express** (2022-Present): Tier 0 GraphQL Platform serving millions of users
+- **American Express (2022-2026): Tier 0 GraphQL Platform serving millions of users
   - Eliminated 60% of CI pipeline issues
   - Led monolith → microservices migration
   - Mentored 4 junior engineers
@@ -40,3 +40,5 @@ Backend Engineer building scalable systems at American Express.
 ---
 
 💡 **Currently seeking:** Backend Engineering roles at high-growth companies where I can build systems that scale and solve hard problems.
+
+🌐 Open to Backend Engineering roles | Remote | $150K-$180K
